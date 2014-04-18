@@ -28,15 +28,9 @@
 	</config>
 	
 	<item>
-		<description bgcolor="#0066CC"><![CDATA[<p class="white_text"><span class="title_extra">01</span>   <span class="title_large">Intro</span><br /><br /><span class="desc_small">Suspendisse feugiat nisl non mauris facilisis in feugiat nisi scelerisque.</span></p>]]></description>
+		<description bgcolor="#0066CC"><![CDATA[<p class="white_text"><span class="title_extra">01</span>   <span class="title_large">Intro</span><br /><br /><span class="desc_small">My Name Is Bijay pant.</span></p>]]></description>
 		<content><![CDATA[<span class="title">01 Content Title One</span>
-<p align="justify">Integer faucibus, arcu at vestibulum posuere, <a href="http://www.flashmo.com" target="_parent">lacus velit venenatis sem</a>, nec scelerisque lorem urna nec orci. Aenean id nisl nec tortor pellentesque lobortis. Nulla porta urna non arcu egestas cursus hendrerit lacus aliquet.
-<span class="highlight">Highlighted Text</span> - Donec scelerisque nisl faucibus est gravida ac pulvinar sapien porta. Mauris venenatis felis id sapien euismod sollicitudin. Morbi vestibulum feugiat massa at lobortis. </p>
-<span class="subtitle">Duis bibendum erat vitae</span>
-<p align="justify">Praesent in tellus ligula, eu molestie odio. Fusce molestie tellus eu tortor rutrum ac molestie augue ultrices. Mauris pulvinar, lacus ut ullamcorper condimentum, justo orci convallis urna, at iaculis nisl mauris ut ante. 
-Fusce cursus, nunc commodo rutrum interdum, turpis massa volutpat augue, id mollis nisi dolor at purus. Aenean eget mauris enim, ut posuere ligula. Fusce quis diam mi. Aliquam urna diam, sollicitudin ac consequat auctor, iaculis ut magna.</p>
-<span class="subtitle">Nullam quis magna ac ante</span>
-<p>Integer quam leo, fringilla vel porta in, eleifend sed ligula. Phasellus tempus sagittis nisi, pretium dignissim elit mattis eu. Sed hendrerit nisl at mauris tincidunt iaculis. Sed blandit dignissim ligula ut interdum.</p>]]></content>
+<p> Hello My name is Bijay. I love Programming and Technology related to computing.</p>]]></content>
 	</item>
 	
 	<item>
